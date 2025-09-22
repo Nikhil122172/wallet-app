@@ -4,7 +4,7 @@ A comprehensive web application for managing multiple financial accounts, tracki
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://wallet-app-task-force-frontend.vercel.app/login)
+[View Live Demo](https://wallet-app-1-u43k.onrender.com/)
 
 <br /><hr /><br />
 
@@ -98,15 +98,8 @@ This application helps Eric by:
 - MongoDB
 - npm or yarn
 
-### Installation
 
-1. **Clone the repository**
-```console
-git clone https://github.com/elyse502/wallet-app-task-force.git
-cd wallet-app
-```
-
-2. **Backend Setup**
+ **Backend Setup**
 ```console
 cd wallet-app-backend
 npm install
@@ -119,7 +112,7 @@ JWT_EXPIRE=30d
 FRONTEND_URL=http://localhost:5173
 ```
 
-3. **Frontend Setup**
+ **Frontend Setup**
 ```console
 cd ../wallet-app-clientside
 npm install
@@ -213,30 +206,6 @@ src/
 
 <br /><hr /><br />
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<br /><hr /><br />
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/elyse502/wallet-app-task-force/blob/main/LICENSE) file for details.
-
-<br /><hr /><br />
-
-## 👤 Author
-
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)  | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse).
-- **Email**: <elyseniyibizi502@gmail.com>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
-
-<br /><hr /><br />
 
 ## 🌟 Acknowledgments
 
@@ -245,15 +214,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - [Chart.js](https://www.chartjs.org/) - Charts
 - [Express.js](https://expressjs.com/) - Backend framework
 - [MongoDB](https://www.mongodb.com/) - Database
-
-<br /><hr /><br />
-
-## 📸 Screenshots
-
-![screencapture-localhost-5173-2025-01-17-11_09_00](https://github.com/user-attachments/assets/af394c2b-b58c-4517-b680-3fa21b82330f)
-
-
-
-
 
 
