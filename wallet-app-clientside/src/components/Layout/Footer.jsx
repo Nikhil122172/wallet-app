@@ -10,12 +10,12 @@ function Footer() {
             <HeartIcon className="h-4 w-4 text-red-500" />
             <span>by</span>
             <a 
-              href="https://elyseeniyibizi.me" 
+              href="https://www.linkedin.com/in/nikhil-kumar-17b822256/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-indigo-600 hover:text-indigo-500 font-medium"
             >
-              Elysée NIYIBIZI
+              Nikhil Kumar
             </a>
           </div>
           <div className="text-gray-400 text-sm">
