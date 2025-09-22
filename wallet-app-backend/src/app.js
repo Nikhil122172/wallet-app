@@ -19,7 +19,7 @@ const { errorHandler } = require('./middleware/errorHandler')
 const app = express()
 
 // Connect to MongoDB
-mongoose.connect("mongodb://127.0.0.1:27017/wallet-app?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.3.7")
+mongoose.connect(process.env.MONGODB_URI)
   .then(() => console.log('MongoDB Connected'))
   .catch(err => console.log('MongoDB connection error:', err))
 
